@@ -76,8 +76,16 @@ git clone https://github.com/AbdallahHammad22/Task-Osolutions
 ---
 
 ## **Screenshots**
-<img width="409" height="899" alt="image" src="https://github.com/user-attachments/assets/e8526170-7527-4c46-ae7d-3c90484745ed" />
-<img width="422" height="910" alt="image" src="https://github.com/user-attachments/assets/04f5e464-6ea1-4438-a207-f206f10ba672" />
+<img width="569" height="926" alt="image" src="https://github.com/user-attachments/assets/6f881dd0-0dd2-4d87-953b-64f0b81c35bc" />
+<img width="511" height="900" alt="image" src="https://github.com/user-attachments/assets/2342b70e-162c-41b7-8255-45aeb27605a5" />
+<img width="537" height="933" alt="image" src="https://github.com/user-attachments/assets/a58fbe3a-d1b2-456a-b9d9-a675079fd5e0" />
+<img width="546" height="904" alt="image" src="https://github.com/user-attachments/assets/519e3858-1e5c-412a-9151-17d85dccd568" />
+<img width="541" height="917" alt="image" src="https://github.com/user-attachments/assets/676bae6c-3c44-424f-832f-96b9d1b8e896" />
+<img width="539" height="898" alt="image" src="https://github.com/user-attachments/assets/ad3214bf-c8c9-457b-802a-0601ffecbe2b" />
+
+
+
+
   
 ---
 
