@@ -3,8 +3,6 @@
 Welcome to the **Task Management App**, a modern Flutter application designed to streamline task organization with a sleek interface and robust functionality.  
 This app supports both **English and Arabic with full RTL support**, offering a seamless experience for managing tasks, categories, and more.  
 
-Whether you're creating, editing, or tracking tasks, this app delivers a polished and intuitive user experience.
-
 ---
 
 ## **Features**
@@ -67,8 +65,26 @@ Whether you're creating, editing, or tracking tasks, this app delivers a polishe
 ## **Setup Instructions**
 
 ### 1. Clone the Repository
-git clone <repository-url>.
-cd task-management-app
+git clone https://github.com/AbdallahHammad22/Task-Osolutions
+  
+---
 
+## **Run the App**
+- flutter pub get
+- flutter run
+  
+---
+
+## **Screenshots**
+<img width="409" height="899" alt="image" src="https://github.com/user-attachments/assets/e8526170-7527-4c46-ae7d-3c90484745ed" />
+<img width="422" height="910" alt="image" src="https://github.com/user-attachments/assets/04f5e464-6ea1-4438-a207-f206f10ba672" />
+  
+---
+
+## **Contact**
+
+📧 Email: abdallahhamad343@gmail.com
+
+📱 WhatsApp: +201029576647
 
 
